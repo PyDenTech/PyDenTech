@@ -1,26 +1,12 @@
-# Olá! Eu sou [Seu Nome] 👋
+# Olá! Eu sou Danilo de Morais 👋
 
 ![Banner](url_do_seu_banner)
 
 ## Sobre Mim
 Eu sou uma desenvolvedora apaixonada por criar soluções inovadoras e eficientes. Com experiência em desenvolvimento web e mobile, gosto de transformar ideias em realidade por meio da programação.
 
-- 🎂 **Idade:** 29 anos
-- 📏 **Altura:** 167 cm
-- 💼 **Profissão:** Desenvolvedora de Software
-
-## Projetos
-Aqui estão alguns dos projetos em que trabalhei:
-
-### [Nome do Projeto 1](link_para_o_projeto)
-- 📝 Descrição: Uma breve descrição do projeto e suas funcionalidades.
-- 🚀 Tecnologias: Listagem das tecnologias utilizadas.
-- 🔗 [Demo](link_para_demo) | [Repositório](link_para_repositorio)
-
-### [Nome do Projeto 2](link_para_o_projeto)
-- 📝 Descrição: Uma breve descrição do projeto e suas funcionalidades.
-- 🚀 Tecnologias: Listagem das tecnologias utilizadas.
-- 🔗 [Demo](link_para_demo) | [Repositório](link_para_repositorio)
+- 🎂 **Idade:** 27 anos
+- 💼 **Profissão:** Desenvolvedor de Software
 
 ## Habilidades
 Aqui estão algumas das habilidades e tecnologias com as quais trabalho:
@@ -41,8 +27,8 @@ Você pode me encontrar e entrar em contato comigo por meio das seguintes plataf
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](link_para_seu_twitter)
 
 ## Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu_nome_de_usuario&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seu_nome_de_usuario&layout=compact&theme=radical)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=PyDenTech&show_icons=true&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=PyDenTech&layout=compact&theme=radical)
 
 ---
 
