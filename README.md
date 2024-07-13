@@ -1,7 +1,5 @@
 # Olá! Eu sou Danilo de Morais 👋
 
-![Banner]([https://chatgpt.com/api/content/file-ybuQRmbVDXKMl4yShyL4sOAt])
-
 ## Sobre Mim
 Eu sou uma desenvolvedora apaixonada por criar soluções inovadoras e eficientes. Com experiência em desenvolvimento web e mobile, gosto de transformar ideias em realidade por meio da programação.
 
