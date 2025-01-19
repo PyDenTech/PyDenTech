@@ -1,10 +1,7 @@
-# Olá! Eu sou Danilo de Morais 👋
+# Olá! Nós somos a PyDen Technologies 👋
 
 ## Sobre Mim
 Eu sou uma desenvolvedora apaixonada por criar soluções inovadoras e eficientes. Com experiência em desenvolvimento web e mobile, gosto de transformar ideias em realidade por meio da programação.
-
-- 🎂 **Idade:** 27 anos
-- 💼 **Profissão:** Desenvolvedor de Software
 
 ## Habilidades
 Aqui estão algumas das habilidades e tecnologias com as quais trabalho:
