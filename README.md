@@ -78,7 +78,7 @@ Somos uma _software house_ brasileira que respira transformação digital. Nossa
 | **🌐 Site** | https://pyden.tech.br |
 | **✉️ E‑mail** | contato@pydentech.com |
 | **📞 Telefone / WhatsApp** | +55 94 99128‑4788 |
-| **📍 Endereço** | Rua Exemplo 123, São Paulo – Brasil |
+| **📍 Endereço** | Rua das Ortalicis, Q18 L19, Canaa dos Carajas - PA, Brasil |
 | **LinkedIn** | [PyDen Technologies](https://www.linkedin.com/company/pyden) |
 | **Twitter** | [@PyDenTech](https://twitter.com/PyDenTech) |
 
