@@ -206,22 +206,13 @@ Entre os cuidados adotados estão:
 
 ## Estatísticas no GitHub
 
-As estatísticas abaixo dependem da disponibilidade do serviço externo `github-readme-stats` e da existência de repositórios públicos no perfil ou organização informado.
-
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PyDenTech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub da PyDen Technologies" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=PyDenTech&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PyDenTech&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais utilizadas pela PyDen Technologies" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PyDenTech&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
-
-Caso as estatísticas não apareçam, verifique:
-
-- Se `PyDenTech` é exatamente o nome do usuário ou organização no GitHub;
-- Se existem repositórios públicos nesse perfil;
-- Se o serviço externo `github-readme-stats.vercel.app` está disponível;
-- Se o GitHub não bloqueou temporariamente o carregamento externo das imagens.
 
 ---
 
